@@ -23,7 +23,7 @@ How to create a Retention Cohort
 - Reg. Month : Signup/Registration months of a new user
 - Txn. Month : Transaction months in which users purchased
 - M0 : First month of the new user in which he/she has registered on the platform
-- M1 : This is the next month for the new user, measured from registration month. Son on for M2,M3,....M11
+- M1 : This is the next month for the new user, measured from registration month. So on for M2,M3,....M11
 - Rev. : Revenue
 - Reg. : Registration
  
