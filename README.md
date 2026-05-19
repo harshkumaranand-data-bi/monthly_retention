@@ -1,7 +1,7 @@
 # Monthly Retention View
 
 ## Project Overview
-How to create a Retention Cohort
+How to create a Monthly Retention Cohort
 
 ## Features
 - Cohort retention matrix
